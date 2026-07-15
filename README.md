@@ -1,4 +1,4 @@
-# Raportare articole și citații conform OMEC nr. 3019/2025
+# Raportare articole și citări conform OMEC nr. 3019/2025
 
 ## Comisia 9 – Inginerie electrică
 
