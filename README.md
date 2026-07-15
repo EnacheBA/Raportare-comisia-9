@@ -164,7 +164,7 @@ Cache-ul din `data/cache/google_scholar` permite reluarea. Pentru o colectare co
 - verificați autocitările și orice excludere cerută de regulament;
 - verificați indexarea WoS/IEEE Xplore și clasificarea BDI la data relevantă;
 - căutați duplicate după DOI și după titlu normalizat;
-- completați valoarea factorului de impact la revistele din categoria 2.1.a (această valoare depinde de anul publicării și nu a putut fi extrasă în mod automat)
+- completați valoarea factorului de impact la revistele din categoria 2.1.a (Factorul de impact al revistei, menționat pe site-ul WOS (Web of Science) în anul publicării articolului sau în anul curent (candidatul alege cea mai favorabilă situație); pentru articolele în conference proceedings indexate WOS și pentru brevetele indexate WOS-Derwent, factorul de impact considerat va fi egal cu zero.)
 - deschideți raportul în Microsoft Excel și recalculați formulele;
 - comparați punctajele cu forma oficială și actualizată a OMEC nr. 3019/2025 și cu regulile instituției.
 
