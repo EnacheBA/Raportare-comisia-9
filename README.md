@@ -164,6 +164,7 @@ Cache-ul din `data/cache/google_scholar` permite reluarea. Pentru o colectare co
 - verificați autocitările și orice excludere cerută de regulament;
 - verificați indexarea WoS/IEEE Xplore și clasificarea BDI la data relevantă;
 - căutați duplicate după DOI și după titlu normalizat;
+- completați valoarea factorului de impact la revistele din categoria 2.1.a (această valoare depinde de anul publicării și nu a putut fi extrasă în mod automat)
 - deschideți raportul în Microsoft Excel și recalculați formulele;
 - comparați punctajele cu forma oficială și actualizată a OMEC nr. 3019/2025 și cu regulile instituției.
 
