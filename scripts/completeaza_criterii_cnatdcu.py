@@ -35,7 +35,7 @@ SHEET_REPORT = "PROF"
 SHEET_SUMMARY = "SINTEZA"
 GREEN_FILL = PatternFill(fill_type="solid", fgColor="92D050")
 NO_FILL = PatternFill(fill_type=None)
-GOOGLE_SUFFIX = "Google Scholar"
+GOOGLE_SUFFIX = "Scopus"
 
 # Coloana A este o clasificare tehnică folosită pentru rutare. Șablonul cere
 # bibliografia începând cu autorii, de aceea valoarea J/C nu este inclusă în text.
