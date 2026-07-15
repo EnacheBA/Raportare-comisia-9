@@ -2,7 +2,7 @@
 
 ## Comisia 9 – Inginerie electrică
 
-Proiect Jupyter Notebook pentru colectarea, clasificarea, deduplicarea și introducerea articolelor și citațiilor într-un șablon de raportare compatibil cu fluxul de lucru asociat Ordinului ministrului educației și cercetării nr. 3.019/2025.
+Proiect Jupyter Notebook pentru colectarea, clasificarea, eliminarea duplicatelor și introducerea articolelor și citărilor într-un șablon de raportare compatibil cu fluxul de lucru asociat Ordinului ministrului educației și cercetării nr. 3.019/2025.
 
 > **Stadiu: testare și validare.** Proiectul poate produce rezultate incomplete sau clasificări greșite. Toate fișierele intermediare sunt păstrate pentru audit și corectare. Verificați manual fiecare articol, citare, categorie, formulă și punctaj înainte de utilizare oficială.
 
