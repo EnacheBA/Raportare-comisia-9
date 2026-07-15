@@ -1,0 +1,42 @@
+# Secrete
+.env
+.env.*
+!.env.example
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.jupyter/
+.venv/
+venv/
+
+# Date bibliografice, șabloane și rezultate personale
+data/input/*
+data/intermediate/*
+data/output/*
+data/cache/*
+!data/input/README.md
+!data/intermediate/README.md
+!data/output/README.md
+!data/cache/README.md
+!data/input/.gitkeep
+!data/intermediate/.gitkeep
+!data/output/.gitkeep
+!data/cache/.gitkeep
+
+# Excel / loguri create accidental în rădăcină
+*.xls
+*.xlsx
+*.xlsm
+*.log
+*.status.json
+*.summary.json
+
+# Sistem / editoare
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

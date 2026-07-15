@@ -1,0 +1,28 @@
+name: Teste
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Dependențe
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+
+      - name: Teste unitare
+        run: python -m unittest discover -s tests -v
+
+      - name: Verificare notebook
+        run: python tools/check_notebook.py
+

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Dacă utilizați acest proiect, citați-l folosind metadatele de mai jos."
+title: "Raportare articole și citații conform OMEC nr. 3019/2025 pentru Comisia 9 – Inginerie electrică"
+type: software
+authors:
+  - family-names: "Enache"
+    given-names: "Bogdan-Adrian"
+version: 0.1.0
+date-released: 2026-07-15
+license: MIT
+repository-code: "ADRESA_REPOSITORY-ULUI"
+

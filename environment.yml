@@ -1,0 +1,18 @@
+name: raportare-omec-3019
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab>=4
+  - notebook>=7
+  - ipykernel>=6
+  - openpyxl>=3.1
+  - pandas>=2.1
+  - requests>=2.31
+  - xlrd>=2.0.1
+  - python-dotenv>=1.0
+  - pytest>=8
+  - pip
+  - pip:
+      - scholarly==1.7.11
+
