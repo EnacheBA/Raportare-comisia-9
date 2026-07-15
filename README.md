@@ -165,6 +165,7 @@ Cache-ul din `data/cache/google_scholar` permite reluarea. Pentru o colectare co
 - verificați indexarea WoS/IEEE Xplore și clasificarea BDI la data relevantă;
 - căutați duplicate după DOI și după titlu normalizat;
 - completați valoarea factorului de impact la revistele din categoria 2.1.a (Factorul de impact al revistei, menționat pe site-ul WOS (Web of Science) în anul publicării articolului sau în anul curent (candidatul alege cea mai favorabilă situație); pentru articolele în conference proceedings indexate WOS și pentru brevetele indexate WOS-Derwent, factorul de impact considerat va fi egal cu zero.)
+- verificați daca articolele BDI sunt clasificate Scopus, aceasta bază de date a fost utilizată implicit pentru că este cea mai cuprinzătoare (Bazele de date internaționale (BDI) luate în considerare pentru articolele publicate în reviste și în volumele unor manifestări științifice sunt: Scopus, IEEE Xplore, ScienceDirect, Elsevier, Wiley, ACM, DBLP, SpringerLink, Engineering Village, CABI, Emerald, CSA, Compendex, IET Inspec, EBSCO, ProQuest, Index Copernicus, Ulrichsweb, DOAJ.)
 - deschideți raportul în Microsoft Excel și recalculați formulele;
 - comparați punctajele cu forma oficială și actualizată a OMEC nr. 3019/2025 și cu regulile instituției.
 
